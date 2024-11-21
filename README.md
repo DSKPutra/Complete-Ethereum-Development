@@ -1,4 +1,4 @@
-# Awesome Ethereum Dev 🚀
+# Complete Ethereum Development by DSKPutra 🚀
 
 A curated list of resources for learning Ethereum development.
 
